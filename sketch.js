@@ -16,7 +16,7 @@ let classifier;
 let label = "listening";
 
 // Teachable Machine model URL:
-let soundModelURL = 'https://pyr506.github.io/aisound/model.json';
+let soundModelURL = 'https://pyr506.github.io/aisss1/model.json';
 
 
 function preload() {
